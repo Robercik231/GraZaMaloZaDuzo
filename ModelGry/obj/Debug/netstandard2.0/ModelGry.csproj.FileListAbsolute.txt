@@ -1,0 +1,9 @@
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.deps.json
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.dll
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\bin\Debug\netstandard2.0\ModelGry.pdb
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.csproj.CoreCompileInputs.cache
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfoInputs.cache
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.AssemblyInfo.cs
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.dll
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.pdb
+C:\Users\rudek\Desktop\ha\zgadywanka-lab5\GraZaDuzoZaMalo\ModelGry\obj\Debug\netstandard2.0\ModelGry.csprojAssemblyReference.cache
